@@ -1,0 +1,378 @@
+@a
+^/ei, ə/
+*  danh từ,  số nhiều as,  a's
+- (thông tục) loại a, hạng nhất, hạng tốt nhất hạng rất tốt
+VD: his health is a+ sức khoẻ anh ta vào loại a
+- (âm nhạc) la
+VD: a sharp+ la thăng
+VD: a flat+ la giáng
+- người giả định thứ nhất; trường hợp giả định thứ nhất
+VD: from a to z+ từ đầu đến đuôi, tường tận
+VD: not to know a from b+ không biết tí gì cả; một chữ bẻ đôi cũng không biết
+*  mạo từ
+- một; một (như kiểu); một (nào đó)
+VD: a very cold day+ một ngày rất lạnh
+VD: a dozen+ một tá
+VD: a few+ một ít
+VD: all of a size+ tất cả cùng một cỡ
+VD: a Shakespeare+ một (văn hào như kiểu) Sếch-xpia
+VD: a Mr Nam+ một ông Nam (nào đó)
+- cái, con, chiếc, cuốn, người, đứa...;
+VD: a cup+ cái chén
+VD: a knife+ con dao
+VD: a son of the Party+ người con của Đảng
+VD: a Vietnamese grammar+ cuốn ngữ pháp Việt Nam
+*  giới từ
+- mỗi, mỗi một
+VD: twice a week+ mỗi tuần hai lần
+
+@a b c
+^/'eibi:'si:/
+*  danh từ
+- bảng chữ cái
+- khái niệm cơ sở, cơ sở
+VD: a_b_c of chemistry+ khái niệm cơ sở về hoá học, cơ sở hoá học
+- (ngành đường sắt) bảng chỉ đường theo abc
+
+@a b c - book
+^/'eibi:'si:buk/
+*  danh từ
+- sách vỡ lòng, sách học vần
+
+@a font
+^/ɑ:'fɜ:ɳ/
+*  phó từ
+- thấu triệt, cặn kẽ, rõ ngọn nghành
+
+@a fortiori
+^/'ei,fɔ:ti'ɔ:rai/
+*  phó từ
+- huống hồ, huống là
+
+@a la carte
+^/'ɑ:lɑ:'kɑ:t/
+*  phó từ
+- theo món, gọi theo món, đặt theo món
+VD: to dine a_la_carte+ ăn cơm gọi theo món
+
+@a la mode
+^/,ɑ:lə'moud/
+*  phó từ
+- hợp thời trang, đúng mốt
+
+@a posteriori
+^/'eipɔs,teri'ɔ:rai/
+*  phó từ & tính từ
+- theo phép quy nạp
+VD: method a_posteriori+ phương pháp quy nạp
+- hậu nghiệm
+VD: probability a_posteriori+ (toán học) xác suất hậu nghiệm
+
+@a priori
+^/'eiprai'ɔ:rai/
+*  danh từ & phó từ
+- theo cách suy diễn, theo cách diễn dịch
+- tiên nghiệm
+VD: probability a_priori+ (toán học) xác xuất tiên nghiệm
+
+@a-bomb
+^/'ei'bɔm/
+*  danh từ
+- bom nguyên tử
+
+@a-going
+^/ə'gouiɳ/
+*  tính từ & phó từ
+- đang chạy, đang chuyển động; đang hoạt động, đang tiến hành
+VD: to set a-going+ cho chuyển động, cho chạy (máy...)
+
+@a-plenty
+^/ə'plenti/
+*  phó từ
+- (từ Mỹ,nghĩa Mỹ) nhiều, dồi dào, phong phú
+
+@a-power
+^/'ei'pauə/
+*  danh từ
+- năng lượng nguyên tử
+- cường quốc nguyên tử
+
+@clear-sightedness
+^/'kliə'saitidnis/
+*  danh từ
+- óc sáng suốt; sự nhìn xa thấy rộng
+
+@clearance
+^/'kliərəns/
+*  danh từ
+- sự dọn quang
+- (hàng hải) sự rời bến, sự thanh toán các khoản thuế để rời bến
+VD: certificate of clearance+ giấy phép rời bến
+- khoảng hở, khoảng trống; độ hở, độ trống
+- phép nghỉ, phép giải ngũ, phép thôi việc
+- (tài chính) sự chuyển (séc)
+
+@clearance-sale
+^/'kliərəns'seil/
+*  danh từ
+- sự bán tháo, sự bán xon (hàng thừa)
+
+@clearcole
+^/'kliəkoul/
+*  danh từ
+- lớp sơn lót màu trắng
+*  ngoại động từ
+- sơn lót một lớp sơn trắng
+
+@clearing
+^/'kliəriɳ/
+*  danh từ
+- sự làm sáng sủa, sự làm quang đãng, sự lọc trong
+VD: to await the clearing of the weather+ đợi lúc trời quang đãng, đợi lúc trời quang mây tạnh
+- sự dọn dẹp, sự dọn sạch; sự phát quang, sự phá hoang; sự vét sạch, sự lấy đi, sự mang đi
+- sự vượt qua; sự tránh né
+- (hàng hải) sự rời bến (tàu); sự thanh toán các khoản thuế (để cho tàu rời bến...)
+- sự làm tiêu tan (mối nghi ngờ...)
+- sự thanh toán, sự trả hết (nợ...)
+- khoảng rừng thưa, khoảng rừng trống
+- khu đất phá hoang (để trồng trọt)
+- (tài chính) sự chuyển (séc)
+
+@clearing station
+^/'kliəriɳ'steiʃn/
+*  danh từ
+- trạm phân phối, trạm điều động
+
+@clearing-hospital
+^/'kliəriɳ,hɔspitl/
+*  danh từ
+- bệnh viện dã chiến
+
+@clearing-house
+^/'kliəriɳhaus/
+*  danh từ
+- ngân hàng
+
+@ferry
+^/'feri/
+*  danh từ
+- bến phà
+- phà
+- (pháp lý) quyền chở phà
+*  ngoại động từ
+- chở (phà)
+- chuyên chở (hàng, người...) bằng phà; qua (sông...) bằng phà
+- (hàng không) lái (máy bay mới) ra sân bay
+*  nội động từ
+- qua sông bằng phà
+- đi đi lại lại từ bên này sang bên kia sông (thuyền...)
+
+@ferry pilot
+^/'feri'pailət/
+*  danh từ
+- (hàng không) người lái máy bay mới (để giao cho sân bay)
+
+@ferry-boat
+^/'feribout/
+*  danh từ
+- phà
+
+@ferry-bridge
+^/'feribridʤ/
+*  danh từ
+- tàu phà (tàu chở xe lửa qua sông)
+
+@ferryman
+^/'ferimən/
+*  danh từ
+- người chở phà; công nhân phà
+
+@fertile
+^/'fə:tail/
+*  tính từ
+- tốt, màu mỡ (đất)
+- có khả năng sinh sản
+
+@fertilise
+^/'fə:tilaiz/
+$(fertilise)	/'fə:tilaiz/
+*  ngoại động từ
+- làm cho tốt, làm cho màu mỡ (đất)
+- (sinh vật học) thụ tinh, làm thụ thai
+
+@fertility
+^/fə:'tiliti/
+*  danh từ
+- sự tốt, sự màu mỡ (đất)
+- có khả năng sinh sản
+
+@fertilizable
+^/'fə:tilaizəbl/
+*  tính từ
+- có thể làm cho màu mỡ được
+- có thể thụ tinh được
+
+@fertilization
+^/,fə:tilai'zeiʃn/
+*  danh từ
+- sự làm cho màu mỡ được
+- (sinh vật học) sự thụ tinh, sự thụ thai
+
+@fertilize
+^/'fə:tilaiz/
+$(fertilise)	/'fə:tilaiz/
+*  ngoại động từ
+- làm cho tốt, làm cho màu mỡ (đất)
+- (sinh vật học) thụ tinh, làm thụ thai
+
+@fertilizer
+^/'fə:tilaizə/
+*  tính từ
+- phân bón
+- (sinh vật học) cái làm thụ tinh; người làm thụ thai
+
+@ferula
+^/'ferju:lə/
+*  danh từ ((cũng) ferule)
+- cái thước bản (dùng để đánh học sinh)
+- (thực vật học) cây a ngu
+
+@inker
+^/'iɳkə/
+*  danh từ
+- máy điện báo
+- (ngành in) người bôi mực; cái bôi mực (lên chữ in)
+
+@inkiness
+^/'iɳkinis/
+*  danh từ
+- màu đen như mực; sự tối đen như mực
+- tình trạng bị bôi đầy mực
+
+@inkless
+^/'iɳklis/
+*  tính từ
+- không có mực
+
+@inkling
+^/'iɳkliɳ/
+*  danh từ
+- lời gợi ý xa xôi
+- sự hiểu biết qua loa; ý niệm mơ hồ
+- sự nghi nghi hoặc hoặc
+
+@inkstand
+^/'iɳkstænd/
+*  danh từ
+- cái giá để bút mực
+
+@inky
+^/'iɳki/
+*  tính từ
+- đen như mực
+- vấy mực, bị bôi đầy mực; có mực
+- thuộc mực
+- bằng mực (viết, vẽ...)
+
+@inky cap
+^/'iɳki'kæp/
+*  danh từ
+- (thực vật học) nấm phân
+
+@inlaid
+^/'in'lei/
+$(inlaid)	/inlaid/
+*  ngoại động từ
+- khám, dát
+- lắp vào
+
+@northland
+^/'nɔ:θlənd/
+$(norland)	/'nɔ:lənd/
+*  danh từ
+- miền bắc
+
+@northward
+^/'nɔ:θwəd/
+*  danh từ
+- hướng bắc
+*  tính từ & phó từ
+- về phía bắc
+
+@northwardly
+^/'nɔ:θwədli/
+*  tính từ
+- bắc
+*  phó từ
+- (như) northwards
+
+@northwards
+^/'nɔ:θwədz/
+$(norward)	/'nɔ:wəd/
+$(norwards)	/'nɔ:wədz/
+$(northwardly)	/'nɔ:θwədli/
+*  phó từ
+- về hướng bắc; từ hướng bắc
+
+@norward
+^/'nɔ:θwədz/
+$(norward)	/'nɔ:wəd/
+$(norwards)	/'nɔ:wədz/
+$(northwardly)	/'nɔ:θwədli/
+*  phó từ
+- về hướng bắc; từ hướng bắc
+
+@norwards
+^/'nɔ:θwədz/
+$(norward)	/'nɔ:wəd/
+$(norwards)	/'nɔ:wədz/
+$(northwardly)	/'nɔ:θwədli/
+*  phó từ
+- về hướng bắc; từ hướng bắc
+
+@norwegian
+^/nɔ:'wi:dʤən/
+*  tính từ
+- (thuộc) Na-uy
+*  danh từ
+- người Na-uy
+- tiếng Na-uy
+
+@rammish
+^/'ræmiʃ/
+*  tính từ
+- có mùi dê đực, hôi
+
+@ramose
+^/rə'mous/
+*  tính từ
+- có nhiều cành nhánh
+
+@ramp
+^/ræmp/
+*  danh từ
+- dốc, bờ dốc, đoạn đường thoai thoải
+VD: approach ramp of a bridge+ dốc lên cầu
+- (hàng không) thang lên máy bay
+- bệ tên lửa
+*  nội động từ
+- dốc thoai thoải
+- chồm đứng lên, chồm hai chân trước lên (sư tử trên huy hiệu)
+-(đùa cợt) nổi xung, giận điên lên
+*  ngoại động từ
+- (kiến trúc) xây dốc thoai thoải (một bức tường)
+*  danh từ
+- (từ lóng) sự lừa đảo
+- sự tăng giá cao quá cao
+*  nội động từ
+- lừa đảo
+- tăng giá quá cao
+
+@rampage
+^/ræm'peidʤ/
+*  danh từ
+- sự giận dữ; cơn giận điên lên, cơn thịnh nộ
+VD: to be on the rampage+ nổi xung, giận điên lên
+*  nội động từ
+- nổi xung, giận điên lên
+

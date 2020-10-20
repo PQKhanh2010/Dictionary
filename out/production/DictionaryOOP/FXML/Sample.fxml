@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane minHeight="425.0" minWidth="600.0" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Code.Controller">
+   <left>
+      <VBox prefHeight="500.0" prefWidth="209.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <TextField fx:id="wordSearch" onKeyPressed="#handleEnterButton" prefHeight="31.0" prefWidth="179.0" promptText="Tìm kiếm....." />
+                  <Button fx:id="searchButton" contentDisplay="GRAPHIC_ONLY" mnemonicParsing="false" prefHeight="28.0" prefWidth="45.0">
+                     <graphic>
+                        <ImageView fitHeight="23.0" fitWidth="25.0" pickOnBounds="true">
+                           <image>
+                              <Image url="@magnifying_glass.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                     <tooltip>
+                        <Tooltip text="Tìm kiếm" />
+                     </tooltip></Button>
+               </children>
+            </HBox>
+            <ListView fx:id="wordResult" prefHeight="585.0" prefWidth="209.0" />
+            <HBox prefHeight="21.0" prefWidth="209.0">
+               <children>
+                  <Button fx:id="addButton" mnemonicParsing="false" prefHeight="20.0" prefWidth="105.0" text="Thêm từ" />
+                  <Button fx:id="deleteButton" mnemonicParsing="false" prefHeight="20.0" prefWidth="105.0" text="Xóa từ">
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <TextArea fx:id="wordDetails" editable="false" prefHeight="500.0" prefWidth="485.0" BorderPane.alignment="CENTER" />
+   </center>
+   <top>
+      <TextField alignment="CENTER" prefHeight="46.0" prefWidth="700.0" text="TỪ ĐIỂN ANH VIỆT" BorderPane.alignment="CENTER">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </TextField>
+   </top>
+</BorderPane>
